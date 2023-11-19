@@ -1,0 +1,7 @@
+-- Active: 1668790662256@@127.0.0.1@3306
+-- @block CREATION OF DATABASE
+-- DROP DATABASE IF EXISTS Server_Database;
+-- CREATE DATABASE Server_Database;
+-- SHOW DATABASES;
+
+CREATE SCHEMA `server_database` ;
